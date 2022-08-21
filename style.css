@@ -1,9 +1,21 @@
 body {
   background-image: url("assets/jon-ly-VDdWUSSPPeg-unsplash.jpg");
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .card {
-  width: 300px;
+  max-width: 300px;
   font-family: "Architects Daughter", cursive;
+}
+
+@media screen and (max-width: 1200px) {
+  body {
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .card {
+    margin-bottom: 100%;
+  }
 }
