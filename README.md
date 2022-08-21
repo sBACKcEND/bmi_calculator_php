@@ -8,6 +8,7 @@ Link:  https://sbackcend.github.io/bmi_calculator_php/
 
 Screenshots:
 
-![screenshot](https://user-images.githubusercontent.com/107551364/185780046-7e74a305-4ff5-456a-be61-65f4f0eec8cd.png)
+![screenshot](https://user-images.githubusercontent.com/107551364/185780473-16ffd5c0-5776-4e6a-9930-96b7a16d74fa.png)
 
-![screenshot1](https://user-images.githubusercontent.com/107551364/185780049-e05ae237-0378-44af-a0df-9d45dd9e16fa.png)
+![screenshot1](https://user-images.githubusercontent.com/107551364/185780480-9357df39-8f3d-47a5-a64d-97c9d67e0c91.png)
+
