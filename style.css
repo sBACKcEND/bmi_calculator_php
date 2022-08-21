@@ -7,16 +7,5 @@ body {
 .card {
   max-width: 300px;
   font-family: "Architects Daughter", cursive;
-}
-
-@media screen and (max-width: 1200px) {
-  body {
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
-
-  .card {
-    margin-bottom: 100%;
-    font-family: "Architects Daughter", cursive;
-  }
+  margin-bottom: 30px;
 }
