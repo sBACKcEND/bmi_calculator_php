@@ -1,0 +1,9 @@
+body {
+  background-image: url("assets/jon-ly-VDdWUSSPPeg-unsplash.jpg");
+  background-size: cover;
+}
+
+.card {
+  width: 300px;
+  font-family: "Architects Daughter", cursive;
+}
