@@ -1,11 +1,9 @@
-@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap");
-
 body {
-  font-family: "Architects Daughter", cursive;
   background-image: url("assets/bruce-mars-y0SMHt74yqc-unsplash.jpg");
   background-size: cover;
 }
 
 .card {
   width: 400px;
+  font-family: "Architects Daughter", cursive;
 }
